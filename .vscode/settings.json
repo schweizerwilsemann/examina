@@ -1,0 +1,5 @@
+{
+  "dart.flutterSdkPath": ".tools/flutter",
+  "search.exclude": { ".tools": true, "build": true },
+  "files.watcherExclude": { "**/.tools/**": true }
+}
